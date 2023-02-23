@@ -1,4 +1,4 @@
-Conditions of the assignments:
+## Conditions of the assignments:
 
 ## 1) Enter the following code (command to print the text "Hello SoftUni"):
 Console.WriteLine("Hello SoftUni");

@@ -1,4 +1,4 @@
-Conditions of the assignments:
+## Conditions of the assignments:
 
 ## 1) Write a program to convert US dollars (USD) to Bulgarian leva (BGN). Use a fixed exchange rate between the dollar and the lev: 1 USD = 1.79549 BGN.
 

@@ -1,10 +1,10 @@
 Conditions of the assignments:
 
-1) Write a program to convert US dollars (USD) to Bulgarian leva (BGN). Use a fixed exchange rate between the dollar and the lev: 1 USD = 1.79549 BGN.
+## 1) Write a program to convert US dollars (USD) to Bulgarian leva (BGN). Use a fixed exchange rate between the dollar and the lev: 1 USD = 1.79549 BGN.
 
-2) Write a program that reads an angle in radians (a decimal number) and converts it to degrees. Use the formula: degree = radian * 180 / π.
+## 2) Write a program that reads an angle in radians (a decimal number) and converts it to degrees. Use the formula: degree = radian * 180 / π.
 
-3) Write a program that calculates how much you will receive at the end of the deposit period at a given interest rate. Use the following formula:
+## 3) Write a program that calculates how much you will receive at the end of the deposit period at a given interest rate. Use the following formula:
 amount = deposited amount + term of the deposit * ((deposited amount * annual interest rate ) / 12)
 
 Input
@@ -18,7 +18,7 @@ Output
 
 To print the amount at the end of the term on the console.
 
-4) There are a number of books on Joro's must-read list for summer vacation. Since Joro prefers to play with friends outside, your task is to help him calculate how many hours a day he should spend to read the necessary literature.
+## 4) There are a number of books on Joro's must-read list for summer vacation. Since Joro prefers to play with friends outside, your task is to help him calculate how many hours a day he should spend to read the necessary literature.
 
 Input
 
@@ -31,7 +31,7 @@ Output
 
 To print on the console the number of hours Joro must spend reading each day.
 
-5) The school year has already started and the teacher of class 10B - Annie has to buy a certain number of packets of pens, packets of markers, as well as blackboard cleaner. She is a regular customer of a bookstore, so there is a discount for her, which is some percentage of the total amount. Write a program that calculates how much money Annie will need to collect to pay the bill, given the following price list:
+## 5) The school year has already started and the teacher of class 10B - Annie has to buy a certain number of packets of pens, packets of markers, as well as blackboard cleaner. She is a regular customer of a bookstore, so there is a discount for her, which is some percentage of the total amount. Write a program that calculates how much money Annie will need to collect to pay the bill, given the following price list:
 
 • Package of pens - BGN 5.80.
 • Package of markers - BGN 7.20.
@@ -49,7 +49,7 @@ Output
 
 To print on the console how much money Annie will need to pay her bill.
 
-6) Rumen wants to repaint the living room and has hired craftsmen for this purpose. Write a program that calculates the cost of the repair given the following prices:
+## 6) Rumen wants to repaint the living room and has hired craftsmen for this purpose. Write a program that calculates the cost of the repair given the following prices:
 
 • Protective nylon - BGN 1.50 per square meter
 • Paint - BGN 14.50 per liter
@@ -70,7 +70,7 @@ Output
 To print one line to the console:
 • "{sum of all costs}"
 
-7) A restaurant opens its doors and offers several menus at preferential prices:
+## 7) A restaurant opens its doors and offers several menus at preferential prices:
 
 • Chicken menu – BGN 10.35.
 • Fish menu – BGN 12.40.
@@ -91,7 +91,7 @@ Output
 
 Print one line to the console: "{order price}"
 
-8) Jesse decides he wants to play basketball, but he needs equipment to practice. Write a program that calculates what costs Jesse will incur if he starts coaching, knowing the cost of basketball coaching over a 1-year period. Required equipment:
+## 8) Jesse decides he wants to play basketball, but he needs equipment to practice. Write a program that calculates what costs Jesse will incur if he starts coaching, knowing the cost of basketball coaching over a 1-year period. Required equipment:
 
 • Basketball shoes - their price is 40% less than the fee for one year
 • Basketball team - its price is 20% cheaper than sneakers
@@ -106,3 +106,21 @@ Input
 Output
 
 To print on the console what Jesse's expenses will be if he starts playing basketball.
+
+## 9) For his birthday, Lubomir received an aquarium in the shape of a parallelepiped. Initially, we read from the console in separate lines its dimensions - length, width and height in centimeters. It is necessary to calculate how many liters of water the aquarium will collect, if it is known that a certain percentage of its capacity is occupied by sand, plants, heater and pump.
+One liter of water equals one cubic decimeter/ 1l=1 dm3/.
+
+Write a program that calculates the liters of water needed to fill the aquarium.
+
+Input
+
+4 lines are read from the console:
+1. Length in cm – an integer in the range [10 … 500]
+2. Width in cm – an integer in the interval [10 … 300]
+3. Height in cm - an integer in the range [10… 200]
+4. Percentage – a real number in the interval [0.000 … 100.000]
+
+Output
+
+To print a number to the console:
+• the liters of water that the aquarium will collect.

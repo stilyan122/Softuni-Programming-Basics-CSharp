@@ -18,7 +18,7 @@ Exactly two lines are read from the console:
 
 • Text, time of day - with options - "Morning", "Afternoon", "Evening"
 
-![image](https://user-images.githubusercontent.com/117260079/221258832-861c4a95-ad4c-4642-9654-b2180cf46fa5.png)
+![image](https://user-images.githubusercontent.com/117260079/221261529-9cc344df-5eb6-4d6f-8328-54c972055127.png)
 
 Print on the console one line: "It's {degrees} degrees, get your {clothes} and {shoes}."
 
@@ -169,7 +169,7 @@ o "Cannot divide {N1} by zero"
 
 ## 7) Hotel offers 2 types of rooms: studio and apartment. Write a program that calculates the total stay price for a studio and an apartment. Prices depend on the month of stay:
 
-![image](https://user-images.githubusercontent.com/117260079/221260345-4cdb4ce2-8c87-4f23-868a-8f81c12e1104.png)
+![image](https://user-images.githubusercontent.com/117260079/221261323-4a8af628-64f0-4d01-ae99-0786891df759.png)
 
 The following discounts are also available:
 

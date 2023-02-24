@@ -54,12 +54,12 @@ Display "fruit", "vegetable" or "unknown" according to the product entered.
 
 On Saturdays and Sundays, the store operates at higher prices: 
 
-![image](https://user-images.githubusercontent.com/117260079/221257195-76998d12-de81-4c1b-ae1c-f8fd6712f8b9.png)
+![image](https://user-images.githubusercontent.com/117260079/221257744-492781e0-a254-49ea-984a-57ab9f243968.png)
 
 Write a program that reads from the console fruit (banana / apple / orange / grapefruit / kiwi / pineapple / grapes), day of the week (Monday / Tuesday / Wednesday / Thursday / Friday / Saturday / Sunday) and quantity (real number) entered by the user, and calculates the price according to the prices in the tables above. Print the result rounded to 2 decimal places. For an invalid day of the week or an invalid fruit name, print "error".
 
 ## 12) A company gives the following commissions to its salespeople based on the city they work in and the volume of sales:
 
-![image](https://user-images.githubusercontent.com/117260079/221257387-08228064-1be2-47f5-8ea3-42fe75c60474.png)
+![image](https://user-images.githubusercontent.com/117260079/221257688-268bcb5d-2fd3-484f-b3be-fd89c9d730bf.png)
 
 Write a console program that reads city name (string) and sales volume (real number) entered by the user and calculates and outputs the trade commission amount according to the above table. Output the result formatted to 2 decimal places. Invalid city or sales volume (negative number) to print "error".

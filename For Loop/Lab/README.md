@@ -16,11 +16,11 @@
 
 ## 7) Write a program that reads n-th number of integers entered by the user and sums them.
 
-• The number of numbers n is entered from the first line of the input.
+### • The number of numbers n is entered from the first line of the input.
 
-• One whole number is entered from the next n lines.
+### • One whole number is entered from the next n lines.
 
-The program must read the numbers, add them, and print the sum.
+### The program must read the numbers, add them, and print the sum.
 
 ## 8) Write a program that reads n number of integers. Print the largest and smallest number among those entered.
 
@@ -28,8 +28,8 @@ The program must read the numbers, add them, and print the sum.
 
 ## 10) Write a program that reads n-th number of integers supplied by the user and checks whether the sum of the numbers in even positions is equal to the sum of the numbers in odd positions.
 
-• If the sums are equal, print two lines: "Yes" and on a new line "Sum = " + the sum;
+### • If the sums are equal, print two lines: "Yes" and on a new line "Sum = " + the sum;
 
-• If the amounts are not equal, print two lines: "No" and on a new line "Diff = " + the difference.
+### • If the amounts are not equal, print two lines: "No" and on a new line "Diff = " + the difference.
 
-The difference is calculated in absolute value.
+### The difference is calculated in absolute value.

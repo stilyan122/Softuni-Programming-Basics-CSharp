@@ -5,7 +5,7 @@
 ## 2) Write a program that reads an angle in radians (a decimal number) and converts it to degrees. Use the formula: degree = radian * 180 / π.
 
 ## 3) Write a program that calculates how much you will receive at the end of the deposit period at a given interest rate. Use the following formula:
-amount = deposited amount + term of the deposit * ((deposited amount * annual interest rate ) / 12)
+### amount = deposited amount + term of the deposit * ((deposited amount * annual interest rate ) / 12)
 
 ### Input
 
@@ -47,7 +47,7 @@ amount = deposited amount + term of the deposit * ((deposited amount * annual in
 
 ### Output
 
-### To print on the console how much money Annie will need to pay her bill.
+### Print on the console how much money Annie will need to pay her bill.
 
 ## 6) Rumen wants to repaint the living room and has hired craftsmen for this purpose. Write a program that calculates the cost of the repair given the following prices:
 

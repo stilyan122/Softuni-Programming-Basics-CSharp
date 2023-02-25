@@ -5,7 +5,7 @@
 ## 2) Write a program that reads two integers entered by the user and prints the larger of the two.
 
 ## 3) Write a program that reads an integer entered by the user and prints whether it is even or odd.
-If even print "even", if odd print "odd".
+### If even print "even", if odd print "odd".
 
 ## 4) Write a program that reads a password (text) entered by the user and checks whether the entered password matches the phrase "s3cr3t!P@ssw0rd". If there is a match, display "Welcome". In case of mismatch, display "Wrong password!".
 

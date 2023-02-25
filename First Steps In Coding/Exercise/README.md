@@ -108,7 +108,7 @@
 ### Print on the console what Jesse's expenses will be if he starts playing basketball.
 
 ## 9) For his birthday, Lubomir received an aquarium in the shape of a parallelepiped. Initially, we read from the console in separate lines its dimensions - length, width and height in centimeters. It is necessary to calculate how many liters of water the aquarium will collect, if it is known that a certain percentage of its capacity is occupied by sand, plants, heater and pump.
-One liter of water equals one cubic decimeter/ 1l=1 dm3/.
+### One liter of water equals one cubic decimeter/ 1l=1 dm3/.
 
 ### Write a program that calculates the liters of water needed to fill the aquarium.
 

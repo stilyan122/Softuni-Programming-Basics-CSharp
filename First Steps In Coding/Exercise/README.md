@@ -16,7 +16,7 @@
 
 ### Output
 
-### To print the amount at the end of the term on the console.
+### Print the amount at the end of the term on the console.
 
 ## 4) There are a number of books on Joro's must-read list for summer vacation. Since Joro prefers to play with friends outside, your task is to help him calculate how many hours a day he should spend to read the necessary literature.
 
@@ -29,7 +29,7 @@
 
 ### Output
 
-### To print on the console the number of hours Joro must spend reading each day.
+### Print on the console the number of hours Joro must spend reading each day.
 
 ## 5) The school year has already started and the teacher of class 10B - Annie has to buy a certain number of packets of pens, packets of markers, as well as blackboard cleaner. She is a regular customer of a bookstore, so there is a discount for her, which is some percentage of the total amount. Write a program that calculates how much money Annie will need to collect to pay the bill, given the following price list:
 
@@ -67,7 +67,7 @@
 
 ### Output
 
-### To print one line to the console:
+### Print one line to the console:
 ### • "{sum of all costs}"
 
 ## 7) A restaurant opens its doors and offers several menus at preferential prices:
@@ -105,7 +105,7 @@
 
 ### Output
 
-### To print on the console what Jesse's expenses will be if he starts playing basketball.
+### Print on the console what Jesse's expenses will be if he starts playing basketball.
 
 ## 9) For his birthday, Lubomir received an aquarium in the shape of a parallelepiped. Initially, we read from the console in separate lines its dimensions - length, width and height in centimeters. It is necessary to calculate how many liters of water the aquarium will collect, if it is known that a certain percentage of its capacity is occupied by sand, plants, heater and pump.
 One liter of water equals one cubic decimeter/ 1l=1 dm3/.
